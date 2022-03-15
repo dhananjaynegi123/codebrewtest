@@ -7,7 +7,7 @@
 
 ## Initial NPM install commands
 
-### `npm install`
+### 1: `npm install`
 
 1- Create a Database named `test`
 
@@ -16,22 +16,22 @@
 
 Run the Migration
 
-### `npx sequelize-cli db:migrate`
+### 2: `npx sequelize-cli db:migrate`
 
 Run the Seeder to seed the roles
 
 
-### `npx sequelize-cli db:seed:all`
+### 3: `npx sequelize-cli db:seed:all`
 
 Required Install done..
 
 Import Postman Collection: 
 
-### `https://www.getpostman.com/collections/bc6015e23541a6271500`
+### 4: `https://www.getpostman.com/collections/bc6015e23541a6271500`
 
 
 Start Node Server
-### `npm start`
+### 5: `npm start`
 
 Node.JS server has been started on the port 3000
 
