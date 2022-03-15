@@ -1,5 +1,6 @@
-# Test Assignment
-#Please have a look to my `QUALITY CODE` having  usable components,  all kind of validation & error handling 
+# Test Assignment of Code Brew Labs
+
+## Please have a look to my `QUALITY CODE having  usable components,  all kind of validation & error handling`
 
 # Getting Started with Test
 
@@ -8,7 +9,7 @@
 
 ### `npm install`
 
-1- Create a Database named 'test'
+1- Create a Database named `test`
 
 2- Change Database details in your .ENV File
 
