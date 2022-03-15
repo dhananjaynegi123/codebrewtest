@@ -15,23 +15,23 @@
 
 3- Here is ENV File
 
-### ---------------------------------
-### ENV=dev
-### PORT=3000
-### APP_NAME=test_application
-### API_VER=1.0.0
-### APP_URL="http://localhost:3000"
+##### ---------------------------------
+##### ENV=dev
+##### PORT=3000
+##### APP_NAME=test_application
+##### API_VER=1.0.0
+##### APP_URL="http://localhost:3000"
 
 
-### MYSQL_DRIVER=mysql
-### MYSQL_HOST=localhost
-### MYSQL_PORT=3306
-### MYSQL_DB_NAME=test_code_brew
-### MYSQL_USER=root
-### MYSQL_PASSWORD=
+#### MYSQL_DRIVER=mysql
+#### MYSQL_HOST=localhost
+#### MYSQL_PORT=3306
+#### MYSQL_DB_NAME=test_code_brew
+#### MYSQL_USER=root
+#### MYSQL_PASSWORD=
  
-### JWT_TOKEN_KEY="demo"
-### --------------------------------
+#### JWT_TOKEN_KEY="demo"
+#### --------------------------------
 
 
 Run the Migration
